@@ -1,0 +1,9 @@
+.sign {
+    width: 25vw;
+    height: 20vh;
+    display: flex;
+    flex-direction: column;
+    background-color: aqua;
+    justify-content: center;
+    align-items: center;
+}
