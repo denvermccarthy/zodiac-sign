@@ -4,4 +4,7 @@
     display: flex;
     align-items: center;
     justify-content: center;
+    background-color:chocolate;
+    color: antiquewhite;
+    font-size: 5em;
 }

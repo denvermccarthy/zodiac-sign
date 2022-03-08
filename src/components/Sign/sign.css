@@ -3,7 +3,11 @@
     height: 20vh;
     display: flex;
     flex-direction: column;
-    background-color: aqua;
+    background-color: orange;
     justify-content: center;
     align-items: center;
+}
+
+.name {
+    text-transform: uppercase;
 }
