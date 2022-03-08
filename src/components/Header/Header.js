@@ -3,6 +3,6 @@ import './header.css';
 
 export default function Header() {
   return (
-    <div className='header'> DENVERS ZODIAC SIGNS</div>
+    <div className='header'> DENVER`S ZODIAC SIGNS</div>
   );
 }
