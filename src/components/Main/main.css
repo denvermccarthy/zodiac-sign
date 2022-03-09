@@ -8,6 +8,5 @@
   column-gap: 5vw;
   row-gap: 5vw;
   padding: 5vw 0;
-  overflow: scroll;
-  background-color: antiquewhite;
+  background-size: cover;
 }
