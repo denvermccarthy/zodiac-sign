@@ -1,0 +1,11 @@
+.header {
+  height: 15vh;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: chocolate;
+  background-size: cover;
+  color: antiquewhite;
+  font-size: 5vw;
+}
