@@ -1,16 +1,20 @@
 .sign {
-    width: 15em;
-    height: 15em;
-    display: flex;
-    border-radius: 5px;
-    flex-direction: column;
-    background-color: orange;
-    justify-content: center;
-    align-items: center;
-    margin-top: 4em;
+  width: 15vw;
+  height: 15vw;
+  display: flex;
+  font-size: 1vw;
+  border-radius: 1vw;
+  flex-direction: column;
+  background-color: orange;
+  justify-content: center;
+  align-items: center;
 }
 
 .name {
-    text-transform: uppercase;
+  text-transform: uppercase;
 }
 
+.image {
+  width: 5vw;
+  height: auto;
+}
